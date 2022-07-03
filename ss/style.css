@@ -1,0 +1,359 @@
+
+/* header start */
+header.start {
+    height: 550px;
+    width: auto;
+    background-color: #1f2937;
+    background: url(./e32fc8ba8c7efdd99e01ccb857585d40.jpg);
+background-attachment: fixed;
+background-size: cover;
+
+
+
+
+
+}
+
+.header-logo {
+    font-size: 24px;
+    font-weight: bolder;
+    font-family: 'Times New Roman', Times, serif;
+    color: #f9faf8;
+    display: inline-block;
+    margin-left: 100px;
+    margin-top: 20px;
+
+
+
+
+
+}
+
+.link-one {
+    font-size: 18px;
+    color: #e5e7eb;
+    display: inline-block;
+    vertical-align: middle;
+    border: 0px;
+    padding-left: -100px;
+}
+
+.link-two {
+    font-size: 18px;
+    color: #e5e7eb;
+    display: inline-block;
+    vertical-align: middle;
+    margin-left: 30px;
+
+
+}
+
+.link-three {
+    font-size: 18px;
+    color: #e5e7eb;
+    display: inline-block;
+    vertical-align: middle;
+    margin-left: 30px;
+
+
+}
+
+.title {
+    font-size: 48px;
+    font-weight: bolder;
+    width: 300px;
+    color: #f9faf8;
+    margin-left: 150px;
+    vertical-align: top;
+    border: 0px;
+    font-family: 'THOR Ragnarok', sans-serif;
+
+
+}
+
+.link-text {
+    color: #e5e7eb;
+    font-size: 18px;
+    font-weight: lighter;
+    margin-left: 150px;
+    margin-top: 10px;
+    display: inline-block;
+    vertical-align: top;
+    width: 300px;
+                                                                        font-family: 'THOR Ragnarok', sans-serif;
+
+
+
+}
+
+div.box {
+    display: inline-block;
+    vertical-align: top;
+    margin-left: 150px;
+    margin-top: -50px;
+    height: 200px;
+    width: 500px;
+    background-color: grey;
+}
+
+div.text {
+    color: #e5e7eb;
+    font-size: 18px;
+    padding-top: 80px;
+    padding-left: 110px;
+
+
+}
+
+div.button {
+    background-color: #3882f6;
+    height: 30px;
+    width: 115px;
+    padding-left: 18px;
+    padding-top: 7px;
+    margin-left: 150px;
+    margin-top: 40px;
+    border-radius: 10px;
+    color: #e5e7eb;
+    font-weight: bolder;
+    font-size: 18px;
+    padding-right: 5px;
+
+}
+
+.sheesh{
+    text-decoration: none;
+    color: white;
+                                                                    font-family: 'THOR Ragnarok', sans-serif;
+}
+
+/* section 2 start */
+.title-2 {
+    color: #1f2937;
+    font-size: 36px;
+    font-weight: bolder;
+    margin-left: 400px;
+    margin-top: 30px;
+                                                                        font-family: 'THOR Ragnarok', sans-serif;
+}
+
+/* boxes start */
+.box-one {
+    height: 150px;
+    width: 150px;
+    border: 2px solid blue;
+    border-radius: 15px;
+    margin-left: 300px;
+    display: inline-block;
+}
+
+.box-two {
+    height: 150px;
+    width: 150px;
+    border: 2px solid blue;
+    border-radius: 15px;
+    display: inline-block;
+    margin-left: 50px;
+
+}
+
+.box-three {
+    height: 150px;
+    width: 150px;
+    border: 2px solid blue;
+    border-radius: 15px;
+    display: inline-block;
+    margin-left: 50px;
+}
+
+.box-four {
+    height: 150px;
+    width: 150px;
+    border: 2px solid blue;
+    border-radius: 15px;
+    display: inline-block;
+    margin-left: 50px;
+}
+
+.boxone-text {
+    color: gray;
+    font-size: 18px;
+    margin-left: 300px;
+    margin-top: 2px;
+    width: 150px;
+                                                                        font-family: 'THOR Ragnarok', sans-serif;
+}
+
+.boxtwo-text {
+    color: gray;
+    font-size: 18px;
+    margin-left: 502px;
+    margin-top: -110px;
+    width: 150px;
+                                                                        font-family: 'THOR Ragnarok', sans-serif;
+}
+
+.boxthree-text {
+    color: gray;
+    font-size: 18px;
+    margin-left: 710px;
+    margin-top: -105px;
+    width: 150px;
+                                                                        font-family: 'THOR Ragnarok', sans-serif;
+}
+
+.boxfour-text {
+    color: gray;
+    font-size: 18px;
+    margin-left: 913px;
+    margin-top: -90px;
+    width: 150px;
+                                                                        font-family: 'THOR Ragnarok', sans-serif;
+}
+
+/* end boxes */
+/* new section start */
+section.section-three {
+    background-color: #D5DBDB;
+    margin-top: 100px;
+    height: 300px;
+    width: auto;
+}
+
+.quote {
+    font-size: 36px;
+    font-style: italic;
+    font-weight: lighter;
+    color: #1f2937;
+    padding: 100px;
+                                                                        font-family: 'THOR Ragnarok', sans-serif;
+}
+
+.endquote {
+    color: black;
+    font-size: 18px;
+    font-weight: bolder;
+    margin-left: 350px;
+    margin-top: -100px;
+                                                                        font-family: 'THOR Ragnarok', sans-serif;
+}
+
+/* new section start */
+section.bluebox {
+    background-color: #3882f6;
+    height: 100px;
+    width: 70%;
+    margin-top: 100px;
+    margin-left: 220px;
+
+}
+
+.bluebox-header {
+    color: #e5e7eb;
+    font-size: 24px;
+    font-weight: bolder;
+    padding-top: 30px;
+    padding-left: 100px;
+                                                                        font-family: 'THOR Ragnarok', sans-serif;
+
+}
+
+.bluebox-text {
+    color: #e5e7eb;
+    font-weight: lighter;
+    padding-left: 100px;
+                                                                        font-family: 'THOR Ragnarok', sans-serif;
+
+}
+
+.button-two {
+    background-color: #3882f6;
+    height: 55px;
+    width: 141px;
+    color: #e5e7eb;
+    margin-left: 900px;
+    margin-top: -40px;
+    border: 2px solid #e5e7eb;
+    border-radius: 20px;
+    padding-top: 15px;
+    padding-left: 25px;
+    padding-right: 14px;
+                                                                        font-family: 'THOR Ragnarok', sans-serif;
+    
+}
+
+footer.end {
+    background-color: #1f2937;
+    height: 70px;
+    width: auto;
+    margin-top: 100px;
+
+}
+
+.footer-text {
+    color: #e5e7eb;
+    font-weight: bolder;
+    font-style: oblique;
+    padding-top: 30px;
+    padding-left: 30px;
+    
+    
+
+}
+.box{
+    background: url(./download.jpg);
+    background-size: cover;
+    border-radius: 20px;
+
+}
+
+.box-one{
+    background: url(./111.jpg);
+    background-size: cover;
+}
+.box-two{
+    background: url(./downloaad.jpg);
+    background-size: cover;
+}
+.box-three{
+    background: url(./aaa.jpg);
+    background-size: cover;
+}
+.box-four{
+    background: url(./images.jpg);
+    background-size: cover;
+}
+.chaquch{
+    height: 150px;
+    width: 400px;
+    margin-right: 100px;
+}
+
+.About{
+    background: transparent;
+    text-decoration: none;
+    font-size: 20px;
+    color: #3882f6;
+                                                                        font-family: 'THOR Ragnarok', sans-serif;
+}
+
+.contact{
+    background: transparent;
+    text-decoration: none;
+    font-size: 20px;
+    color: #3882f6;
+                                                                        font-family: 'THOR Ragnarok', sans-serif;
+}
+.Terms{
+    background: transparent;
+    text-decoration: none;
+    font-size: 20px;
+    color: #3882f6;
+                                                                        font-family: 'THOR Ragnarok', sans-serif;
+}
+.sign{
+    background: transparent;
+    text-decoration: none;
+    font-size: 20px;
+    color: white;
+}
